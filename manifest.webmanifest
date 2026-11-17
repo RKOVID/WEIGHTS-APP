@@ -1,13 +1,13 @@
 {
   "name": "Weight Reminder",
   "short_name": "Weight Reminder",
-  "description": "Pesi di contrappeso delle gru: cosa c'è montato e cosa hai in stock",
+  "description": "Pesi di contrappeso delle gru: cosa e montato e cosa hai in stock",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#1d3f94",
-  "theme_color": "#1d3f94",
+  "background_color": "#23272c",
+  "theme_color": "#23272c",
   "icons": [
     { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
